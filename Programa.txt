@@ -1,2 +1,4 @@
 Analis y Desarrollo de Software 2023 
 modificacion de fabian
+
+ahora modifico dese mi equipo con git. fabian
